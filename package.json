@@ -1,0 +1,15 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Tim Laxton",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.1",
+    "socket.io": "^2.3.0"
+  }
+}
